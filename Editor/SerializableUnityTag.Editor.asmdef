@@ -1,0 +1,18 @@
+{
+    "name": "SerializableUnityTag.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8a11f5661ea824bf1a0d5ea8a0c93f33"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
