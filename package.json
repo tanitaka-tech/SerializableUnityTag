@@ -7,5 +7,5 @@
     "description": "Serializable Unity Tag.",
     "keywords": ["Editor" ],
     "license": "MIT",
-    "category": "Editor",
+    "category": "Editor"
 }
