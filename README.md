@@ -1,6 +1,6 @@
 When you do this
 ```
-        [SerializeField] private UnityTag _playerEventTriggerTag;
+[SerializeField] private UnityTag _playerEventTriggerTag;
 ```
 this happens.
 
