@@ -1,7 +1,7 @@
 {
     "name": "com.tanitaka-tech.serializable-unity-tag",
     "displayName": "Serializable Unity Tag",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2022.3",
     "author": "tanitaka-tech",
     "description": "Serializable Unity Tag.",
