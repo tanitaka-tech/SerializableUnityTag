@@ -1,4 +1,4 @@
-When you do this
+If you write this to MonoBehaviour derived component
 ```
 [SerializeField] private UnityTag _playerEventTriggerTag;
 ```
